@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.navUl .active{
+    transition: 0.3s ease;
+    background: #000;
+    color: snow;
+}
+
+.navUl .li{
+    padding: 6px 20px;
+    border-radius: 5px;
+}
